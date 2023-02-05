@@ -30,7 +30,7 @@ jobs:
           body: |
             # Terraform Module - Azurerm Insights
 
-            [![Terraform](https://github.com/imjoseangel/terraform-azurerm-api-management/actions/workflows/terraform.yml/badge.svg)](https://github.com/imjoseangel/terraform-azurerm-api-management/actions/workflows/terraform.yml)
+            [![Terraform](https://github.com/imjoseangel/terraform-azurerm-apimanagement/actions/workflows/terraform.yml/badge.svg)](https://github.com/imjoseangel/terraform-azurerm-apimanagement/actions/workflows/terraform.yml)
 
             A [Terraform][2] module to deploy an API Management Service component.
 
@@ -51,7 +51,7 @@ jobs:
 
             Licensed under [the MIT License][1].
 
-            [1]: https://github.com/imjoseangel/terraform-azurerm-api-management/blob/devel/LICENSE
+            [1]: https://github.com/imjoseangel/terraform-azurerm-apimanagement/blob/devel/LICENSE
             [2]: https://www.terraform.io/
             [3]: https://imjoseangel.eu/
           draft: false
